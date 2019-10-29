@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\WindowsForms_Vytas\WindowsForms_Vytas\bin\Debug\WindowsForms_Vytas.exe.config
+C:\Users\opilane\source\repos\WindowsForms_Vytas\WindowsForms_Vytas\bin\Debug\WindowsForms_Vytas.exe
+C:\Users\opilane\source\repos\WindowsForms_Vytas\WindowsForms_Vytas\bin\Debug\WindowsForms_Vytas.pdb
+C:\Users\opilane\source\repos\WindowsForms_Vytas\WindowsForms_Vytas\obj\Debug\WindowsForms_Vytas.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\WindowsForms_Vytas\WindowsForms_Vytas\obj\Debug\WindowsForms_Vytas.Form1.resources
+C:\Users\opilane\source\repos\WindowsForms_Vytas\WindowsForms_Vytas\obj\Debug\WindowsForms_Vytas.Properties.Resources.resources
+C:\Users\opilane\source\repos\WindowsForms_Vytas\WindowsForms_Vytas\obj\Debug\WindowsForms_Vytas.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\WindowsForms_Vytas\WindowsForms_Vytas\obj\Debug\WindowsForms_Vytas.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WindowsForms_Vytas\WindowsForms_Vytas\obj\Debug\WindowsForms_Vytas.exe
+C:\Users\opilane\source\repos\WindowsForms_Vytas\WindowsForms_Vytas\obj\Debug\WindowsForms_Vytas.pdb
+C:\Users\opilane\source\repos\WindowsForms_Vytas\WindowsForms_Vytas\obj\Debug\WindowsForms_Vytas.Form2.resources
+C:\Users\opilane\source\repos\WindowsForms_Vytas\WindowsForms_Vytas\obj\Debug\WindowsForms_Vytas.Form3.resources
